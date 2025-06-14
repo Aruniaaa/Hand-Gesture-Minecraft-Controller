@@ -1,5 +1,5 @@
 # Hand-Gesture-Minecraft-Controller
-A pre trained Mediapipe Machine Learning model that detects your hand gestures like closed fist, thumb down, etc, and according to that, moves your Minecraft player.
+A pre trained Mediapipe Machine Learning model that detects your hand gestures like closed fist, thumb down, etc, and according to that, moves your Minecraft player accordingly.
 
 ## Setup
 You can clone the repository using  ```git clone https://github.com/Aruniaaa/Hand-Gesture-Minecraft-Controller.git
