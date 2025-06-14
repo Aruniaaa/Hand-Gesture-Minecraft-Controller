@@ -20,7 +20,7 @@ def print_result(result, output_image, timestamp_ms):
     global current_gesture
     if result.gestures:
         gesture = result.gestures[0][0].category_name
-        print(f"Gesture: {gesture}")
+        
 
         if gesture != current_gesture:
             if gesture == 'Victory':
