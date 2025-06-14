@@ -25,7 +25,7 @@ NOTE - You can not use two hand gestures at a time, so for something like jumpin
 
 With that said, I do really hope you enjoy this!!! 
 
-- Arunia 
+Made by -> Arunia 
 
 
 
